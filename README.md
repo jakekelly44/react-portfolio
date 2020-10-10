@@ -1,4 +1,4 @@
-# Progressive Web Application
+# React Portfolio
 
 ## Description 
 
@@ -28,8 +28,7 @@ React Commands;
 ## Credits
 
 University of Arizona Coding Bootcamp Week 20 Module 20: React     
-Node Package Manager    
-Jaqvascript    
+Node Package Manager     
 React       
 
 ## License
