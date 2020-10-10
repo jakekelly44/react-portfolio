@@ -1,0 +1,66 @@
+[{
+        "id": 1,
+        "name": "Tech Blog",
+        "image": "https://github.com/jakekelly44/tech-blog/raw/master/doc/proof.png",
+        "github": "https://github.com/jakekelly44/tech-blog",
+        "deploy": "https://uabc-mvc-tech-blog.herokuapp.com/",
+        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+    },
+    {
+        "id": 2,
+        "name": "Work Day Scheduler",
+        "image": "https://github.com/jakekelly44/work-day-scheduler/raw/master/assets/doc/Work-Day-Scheduler.png",
+        "github": "https://github.com/jakekelly44/work-day-scheduler",
+        "deploy": "https://jakekelly44.github.io/work-day-scheduler/",
+        "topics": "moment.js, javascript, bootstrap, jQuery"
+    },
+    {
+        "id": 3,
+        "name": "HTML5/CSS3 Portfolio",
+        "image": "https://github.com/jakekelly44/jake-kelly-portfolio/raw/master/assets/documentation/portfolio-proof-desktop.png",
+        "github": "https://github.com/jakekelly44/jake-kelly-portfolio",
+        "deploy": "https://jakekelly44.github.io/jake-kelly-portfolio/",
+        "topics": "html5, css3, bootstrap"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/jakekelly44/weather-dashboard/raw/master/assets/doc/weather_dashboard_proof_1.png",
+        "github": "https://github.com/jakekelly44/weather-dashboard",
+        "deploy": "https://jakekelly44.github.io/weather-dashboard/",
+        "topics": "moment.js, javascript, jQuery, localStorage, API"
+    },
+    {
+        "id": 5,
+        "name": "Travel Blog CMS",
+        "image": "https://github.com/connorshea15/group-3-project/raw/master/doc/proof.png",
+        "github": "https://github.com/connorshea15/group-3-project",
+        "deploy": "https://here-or-there-project.herokuapp.com/",
+        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv, bcrypt"
+    },
+    {
+        "id": 6,
+        "name": "Note Taker",
+        "image": "https://github.com/jakekelly44/uabc-note-taker/raw/master/doc/demo_still.png",
+        "github": "https://github.com/jakekelly44/uabc-note-taker",
+        "deploy": "https://uabc-note-taker.herokuapp.com/",
+        "topics": "node, express, javascript, bootstrap"
+    },
+    {
+        "id": 7,
+        "name": "Budget Tracker",
+        "image": "https://github.com/jakekelly44/progressive-web-application/raw/main/doc/proof_still.png",
+        "github": "https://github.com/jakekelly44/progressive-web-application",
+        "deploy": "https://progressive-web-appliction.herokuapp.com/",
+        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+    },
+    {
+        "id": 8,
+        "name": "Ticket Finder",
+        "image": "https://github.com/jakekelly44/ticket-finder/raw/master/assets/documentation/still.png",
+        "github": "https://github.com/jakekelly44/ticket-finder",
+        "deploy": "https://jakekelly44.github.io/ticket-finder/",
+        "topics": "node, express, javascript, bootstrap, APIs"
+    }
+
+]
