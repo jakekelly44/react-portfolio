@@ -61,6 +61,16 @@
         "github": "https://github.com/jakekelly44/ticket-finder",
         "deploy": "https://jakekelly44.github.io/ticket-finder/",
         "topics": "node, express, javascript, bootstrap, APIs"
+    },
+    {
+        "id": 9,
+        "name": "My Movie List",
+        "image": "https://github.com/jakekelly44/my-movie-list/raw/main/1.png",
+        "github": "https://github.com/jakekelly44/my-movie-list",
+        "deploy": "https://uabc-my-movie-list.herokuapp.com/",
+        "topics": "node, express, graphQL, mongoose, react, jwt, pwa"
     }
+
+    
 
 ]
